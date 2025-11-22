@@ -57,10 +57,10 @@ Design specification
 Eng. Galel Badr
 
 ## Figma File
-[** Figma Link - UniJobs App**] (https://www.figma.com/design/G93EcvVykmNgzSOFJjOyW3/UI?node-id=0-1&t=7xAybtkS8kYF8uy6-1)
+[Figma Link - UniJobs App] (https://www.figma.com/design/G93EcvVykmNgzSOFJjOyW3/UI?node-id=0-1&t=7xAybtkS8kYF8uy6-1)
 
 ## Project Files
-[** Google Drive - UniJobs Project**] (https://drive.google.com/drive/folders/14-sDSwwCkZ28AmD-MHh2JqnraHXZf4pa?usp=sharing)
+[Google Drive - UniJobs Project] (https://drive.google.com/drive/folders/14-sDSwwCkZ28AmD-MHh2JqnraHXZf4pa?usp=sharing)
 
 ## License
 All rights reserved © 2025 NovaUX
