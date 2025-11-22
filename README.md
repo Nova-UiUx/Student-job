@@ -7,8 +7,11 @@ UniJobs addresses the critical challenge faced by Egyptian university students i
 
 ## Project Focus
 🔒 Secure Verification System - Identity confirmation for both students and employers
+
 🕒 Academic Schedule Integration - Smart job matching based on class timetables
+
 🎯 AI-Powered Recommendations - Personalized opportunities based on skills and goals
+
 📱 Modern Mobile-First Design - Intuitive interface designed for student usability
 
 ## Key Deliverables
@@ -30,9 +33,13 @@ Style guide
 ## Team Members
 ### NovaUX
 Rana Al-Sharief (Team Leader)
+
 Haneen Marwan
+
 Fatma Hesham
+
 Mohamed Tash
+
 Mohamed Nasr
 
 ## Work Plan
